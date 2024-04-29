@@ -78,7 +78,7 @@ namespace HelloWorld
      // Location of the letter S
      int charPos = name44.IndexOf("S");
      // Get last name
-     string nomeCompleto44 = name4.Substring(charPos);   //SUbstring()
+     string nomeCompleto44 = name44.Substring(charPos);   //SUbstring()
      // Print the result
      Console.WriteLine(nomeCompleto44);
       //-------------------------------------------------------------------------
